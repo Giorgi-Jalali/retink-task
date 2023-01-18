@@ -28,7 +28,7 @@ Users should be able to:
 
 - Solution URL: [GitHub](https://github.com/Giorgi-Jalali/retink-presale-page)
 
-- Live Site URL: [Vercel](https://retink-presale-page.vercel.app/)
+- Live Site URL: [Vercel](https://retink-presale-page-five.vercel.app/)
 
 ## My process
 
