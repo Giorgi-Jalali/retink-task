@@ -26,41 +26,11 @@ export default function FooterContainer() {
         <IconsContainer>
           <IconsTitle>Connect with Us</IconsTitle>
           <Icons>
-            <a
-              href="https://www.facebook.com/retinkmedia/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <Facebook />
-            </a>
-            <a
-              href="https://twitter.com/retinkmedia"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <Twitter />
-            </a>
-            <a
-              href="https://www.instagram.com/retinkmedia/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <Instagram />
-            </a>
-            <a
-              href="https://www.linkedin.com/company/retink/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <LinkedIn />
-            </a>
-            <a
-              href="https://www.youtube.com/channel/UCU8_MUvy4BLWqReEb-eEA4A?app=desktop"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <YouTube />
-            </a>
+            <Facebook />
+            <Twitter />
+            <Instagram />
+            <LinkedIn />
+            <YouTube />
             <Pinterest />
           </Icons>
         </IconsContainer>
